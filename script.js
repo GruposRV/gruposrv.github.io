@@ -1,4 +1,4 @@
-        function playAudio() {
+       function playAudio() {
             audio.play();
         }
         
