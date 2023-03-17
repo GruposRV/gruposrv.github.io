@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    background-color: black;
+}
+h1{
+  color: white;
+  font-size: 60px;
+  font-family: 'Noto Sans Display', sans-serif;
+}
+h2{
+   color: black;
+  font-size: 60px;
+  font-family: 'Noto Sans Display', sans-serif;
+  border: 2px solid white;
+}
+
+.cont{
+  display: flex;
+  justify-content: center;
+}
+.box{
+  height: 500px;
+  width: 900px;
+  background-color: grey;
+  margin: auto;
+  border-radius: 7px;
+  
+}
+.box-text{
+  margin: -2em 0 0 1.5em;
+  font-size: 1em;
+  font-family: 'Noto Sans Display';
+}
+#img{
+  height: 300px;
+  width: 380px;
+  margin: -150px 0 0 490px;
+  border-right: 10px solid skyblue;
+  border-top: 10px solid deepskyblue
+}
+
+#dmd{
+  font-size: 200px;
+  margin: -150px 0 0 630px;
+}
+#txt{
+  font-size: 20px;
+}
+#txt2{
+  font-size: 27px;
+  margin: 0 0 0 50px;
+}
+
+#box5{
+  background-color: dimgray;
+}
+
+
+
+.navbar{
+  background-color: white;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#art{
+  color: black;
+  font-size: 30px;
+}
